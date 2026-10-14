@@ -8,8 +8,8 @@ My recent work includes LLM integrations, agent orchestration and tool integrati
 
 ### Stack
 
-**Backend** — Python, FastAPI, PostgreSQL, Redis  
-**Frontend** — React, Next.js, TypeScript  
-**Infrastructure** — Docker, AWS
+**Backend** - Python, FastAPI, PostgreSQL, Redis  
+**Frontend** - React, Next.js, TypeScript  
+**Infrastructure** - Docker, AWS
 
 [LinkedIn](https://www.linkedin.com/in/alex-datsko/)
